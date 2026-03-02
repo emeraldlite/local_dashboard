@@ -1,0 +1,4 @@
+local_dashboard/.env
+local_dashboard/devices.json
+
+local_dashboard/__pycache__/
