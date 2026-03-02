@@ -1,0 +1,9 @@
+{
+  "devices": {
+    "A-01": "PASTE_DEVICE_ID_UUID",
+    "A-02": "PASTE_DEVICE_ID_UUID",
+    "A-03": "PASTE_DEVICE_ID_UUID",
+    "A-04": "PASTE_DEVICE_ID_UUID",
+    "A-05": "PASTE_DEVICE_ID_UUID"
+  }
+}
